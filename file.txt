@@ -1,1 +1,2 @@
-New changes would override previus ones 1.
+New changes would override previus ones 
+make some changes we want to revert 1.
